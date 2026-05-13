@@ -1,2 +1,2 @@
 # Conduit
-Conduit: A Lock-Free Zero-Copy Runtime for Edge Vision Pipelines
+Conduit: An Adaptive RF-Vision Fusion Runtime for Edge Perception
